@@ -32,3 +32,14 @@ const Peliculas = ()=>{
 }
 
 export default Peliculas
+
+// PSEUDOCODIGO
+// DONE: mostrar una lista tareas
+// DONE: agregar un input de tarea
+// DONE: identificar cuando el usuairo da enter
+// DONE: tomar el valor del input
+// DONE: agregar unn elemento a la lista
+// DONE: mostrar el total de elementos en una lista
+// eliminar un elemento de una lista
+// cuando hago over sobre una tarea mostrar boton
+// estilos
