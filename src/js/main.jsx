@@ -16,9 +16,11 @@ import Peliculas from './components/Peliculas';
 import Tasks from './components/Tasks';
 import Inputkey from './components/Inputkey';
 import Inputsub from './components/Inputsub';
+import Counter from './components/Counter';
+import Getdata from './components/Getdata';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Tasks />
+    <Getdata />
   </React.StrictMode>,
 )
